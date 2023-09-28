@@ -23,19 +23,19 @@ VPC: <br/>
 <br />
 <br />
 Subnet:  <br/>
-<img src="https://i.postimg.cc/TYcm7J7n/ss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/TYcm7J7n/ss.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Instances in a private subnet can connect to services outside VPC using a NAT gateway, but external services cannot connect directly to those instance: <br/>
-<img src="https://i.postimg.cc/V6cjvfKc/44.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/V6cjvfKc/44.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Security Groups:  <br/>
+<img src="https://i.postimg.cc/ZY1kNmPM/Screenshot-2023-09-28-012444.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+RDS Database:  <br/>
+<img src="https://i.postimg.cc/ZY1kNmPM/Screenshot-2023-09-28-012444.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
