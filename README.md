@@ -38,6 +38,10 @@ RDS Database:  <br/>
 <img src="https://i.postimg.cc/ZY1kNmPM/Screenshot-2023-09-28-012444.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+WebSite  <br/>
+<img src="https://i.postimg.cc/ZnhP3FtZ/Screenshot-2023-09-17-203120.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
