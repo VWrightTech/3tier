@@ -1,5 +1,5 @@
 <h1>Three Tier Archtecture</h1>
-
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*PDHya_zt_n657nYUAm1OeA.jpeg" />
 
 <h2>Description</h2>
 The three-tier architecture, which includes the presentation tier, application tier, and database tier
